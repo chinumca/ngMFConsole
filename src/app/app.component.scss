@@ -1,0 +1,19 @@
+.about-nav {
+  //background-color: #343a40!important;
+  background-color: #495057 !important;
+  text-decoration: none;
+}
+.nav-link {
+  font-size: 16px;
+  color: #fff;
+}
+
+.sticky {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+}
+.navbar .nav-link.activeSubMenu {
+  color: #09ff10;
+}
